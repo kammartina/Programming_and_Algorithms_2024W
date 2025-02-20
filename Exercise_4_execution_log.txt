@@ -1,0 +1,257 @@
+
+===== Contents of 'song.txt' =====
+… So, so you think you can tell heaven from hell?
+Blue skies from pain?
+Can you tell a green field from a cold steel rail?
+A smile from a veil?
+Do you think you can tell?
+… Did they get you to trade your heroes for ghosts?
+Hot ashes for trees?
+Hot air for a cool breeze?
+Cold comfort for change?
+Did you exchange a walk on part in the war
+For a lead role in a cage?
+… How I wish, how I wish you were here
+We're just two lost souls swimming in a fish bowl
+Year after year
+Running over the same old ground, what have we found?
+The same old fears, wish you were here
+
+===== Letter Frequency Results =====
+a: 33
+b: 3
+c: 10
+d: 14
+e: 54
+f: 15
+g: 9
+h: 25
+i: 23
+j: 1
+k: 4
+l: 25
+m: 10
+n: 20
+o: 46
+p: 2
+r: 33
+s: 24
+t: 24
+u: 16
+v: 4
+w: 15
+x: 1
+y: 13
+z: 1
+
+===== Non-alphabet characters =====
+Total: 138
+'…': 3
+' ': 104
+',': 4
+'?': 11
+'\n': 15
+"'": 1
+
+===== Top 5 Most Frequently Used Characters =====
+ : 104
+e: 54
+o: 46
+a: 33
+r: 33
+
+===== Top 5 Least Frequently Used Characters =====
+j: 1
+': 1
+x: 1
+z: 1
+p: 2
+
+===== Unused Alphabet Characters =====
+q
+
+===== Word Frequency Results =====
+'so': 2
+'you': 9
+'think': 2
+'can': 3
+'tell': 3
+'heaven': 1
+'from': 4
+'hell': 1
+'blue': 1
+'skies': 1
+'pain': 1
+'a': 9
+'green': 1
+'field': 1
+'cold': 2
+'steel': 1
+'rail': 1
+'smile': 1
+'veil': 1
+'do': 1
+'did': 2
+'they': 1
+'get': 1
+'to': 1
+'trade': 1
+'your': 1
+'heroes': 1
+'for': 5
+'ghosts': 1
+'hot': 2
+'ashes': 1
+'trees': 1
+'air': 1
+'cool': 1
+'breeze': 1
+'comfort': 1
+'change': 1
+'exchange': 1
+'walk': 1
+'on': 1
+'part': 1
+'in': 3
+'the': 3
+'war': 1
+'lead': 1
+'role': 1
+'cage': 1
+'how': 2
+'i': 2
+'wish': 3
+'were': 2
+'here': 2
+'we're': 1
+'just': 1
+'two': 1
+'lost': 1
+'souls': 1
+'swimming': 1
+'fish': 1
+'bowl': 1
+'year': 2
+'after': 1
+'running': 1
+'over': 1
+'same': 2
+'old': 2
+'ground': 1
+'what': 1
+'have': 1
+'we': 1
+'found': 1
+'fears': 1
+
+===== Total unique words found in the lyrics: 72 =====
+
+===== Word Percentages =====
+Word            Occurrences  Percentage (%)
+----------------------------------------
+so              2            1.71        
+you             9            7.69        
+think           2            1.71        
+can             3            2.56        
+tell            3            2.56        
+heaven          1            0.85        
+from            4            3.42        
+hell            1            0.85        
+blue            1            0.85        
+skies           1            0.85        
+pain            1            0.85        
+a               9            7.69        
+green           1            0.85        
+field           1            0.85        
+cold            2            1.71        
+steel           1            0.85        
+rail            1            0.85        
+smile           1            0.85        
+veil            1            0.85        
+do              1            0.85        
+did             2            1.71        
+they            1            0.85        
+get             1            0.85        
+to              1            0.85        
+trade           1            0.85        
+your            1            0.85        
+heroes          1            0.85        
+for             5            4.27        
+ghosts          1            0.85        
+hot             2            1.71        
+ashes           1            0.85        
+trees           1            0.85        
+air             1            0.85        
+cool            1            0.85        
+breeze          1            0.85        
+comfort         1            0.85        
+change          1            0.85        
+exchange        1            0.85        
+walk            1            0.85        
+on              1            0.85        
+part            1            0.85        
+in              3            2.56        
+the             3            2.56        
+war             1            0.85        
+lead            1            0.85        
+role            1            0.85        
+cage            1            0.85        
+how             2            1.71        
+i               2            1.71        
+wish            3            2.56        
+were            2            1.71        
+here            2            1.71        
+we're           1            0.85        
+just            1            0.85        
+two             1            0.85        
+lost            1            0.85        
+souls           1            0.85        
+swimming        1            0.85        
+fish            1            0.85        
+bowl            1            0.85        
+year            2            1.71        
+after           1            0.85        
+running         1            0.85        
+over            1            0.85        
+same            2            1.71        
+old             2            1.71        
+ground          1            0.85        
+what            1            0.85        
+have            1            0.85        
+we              1            0.85        
+found           1            0.85        
+fears           1            0.85        
+
+===== Top 10 Most Frequently Used Words =====
+'you': 9
+'a': 9
+'for': 5
+'from': 4
+'can': 3
+'tell': 3
+'in': 3
+'the': 3
+'wish': 3
+'so': 2
+
+Top 10 words account for 37.61% of the total words in the song.
+
+===== Reversed Content of 'song.txt' =====
+ereh erew uoy hsiw ,sraef dlo emas ehT
+?dnuof ew evah tahw ,dnuorg dlo emas eht revo gninnuR
+raey retfa raeY
+lwob hsif a ni gnimmiws sluos tsol owt tsuj er'eW
+ereh erew uoy hsiw I woh ,hsiw I woH …
+?egac a ni elor dael a roF
+raw eht ni trap no klaw a egnahcxe uoy diD
+?egnahc rof trofmoc dloC
+?ezeerb looc a rof ria toH
+?seert rof sehsa toH
+?stsohg rof seoreh ruoy edart ot uoy teg yeht diD …
+?llet nac uoy kniht uoy oD
+?liev a morf elims A
+?liar leets dloc a morf dleif neerg a llet uoy naC
+?niap morf seiks eulB
+?lleh morf nevaeh llet nac uoy kniht uoy os ,oS …
+
+Analysis complete. Results logged to execution_log.txt.
