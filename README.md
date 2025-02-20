@@ -10,7 +10,7 @@ This exercise focuses on processing and analyzing book metadata stored in JSON f
 - get_genres(books: list) -> list – Returns a unique list of genres from the dataset.
 <br><br>
 
-**Exercise 2: Finding Paths with BFS**
+**Exercise 2: Finding Path with BFS**
 <br>
 This exercise focuses on implementing breadth-first search (BFS) to find a path in a labyrinth. Key concepts include queues, sets, tuple handling, and pathfinding algorithms, helping to reinforce Python skills for handling structured data and search problems. It involves:
 - Displaying the labyrinth with row and column labels.
