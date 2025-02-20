@@ -36,7 +36,7 @@ This exercise involves building a Python program to analyze song lyrics by proce
 - Loging all results to execution_log.txt.
 <br><br>
 
-**Exercise 5: Search Engine for Shakespeare's Sonnets**
+**Exercise 5: Shakespearean Sonnet Search Engine**
 <br>
 This project implements a search engine for Shakespearean sonnets, showcasing essential techniques in text processing and information retrieval that are critical for building robust language models. The goal is to demonstrate how to fetch, preprocess, index, and efficiently retrieve text data in response to user queries—an approach that underpins many modern NLP and search systems.
 <br>
