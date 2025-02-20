@@ -38,13 +38,16 @@ This exercise involves building a Python program to analyze song lyrics by proce
 
 **Exercise 5: Search Engine for Shakespeare's Sonnets**
 <br>
-This exercise aims to build a search engine for Shakespeare's sonnets. It involves fetching sonnets via an API, converting JSON data into object-oriented representations, tokenizing and stemming text, and constructing an inverted index for efficient information retrieval. The project reinforces key concepts in API integration, OOP design, text processing, and query handling.
-- Fetching Data
-- Object-Oriented Conversion
-- Text Processing
-- Inverted Index Creation
-- Query Handling and Document Abstraction
-- User Interface
+This project implements a search engine for Shakespearean sonnets, showcasing essential techniques in text processing and information retrieval that are critical for building robust language models. The goal is to demonstrate how to fetch, preprocess, index, and efficiently retrieve text data in response to user queries—an approach that underpins many modern NLP and search systems.
+<br>
+This exercise is important for language models because it illustrates fundamental principles of text normalization, indexing, and retrieval, all of which are vital for handling and interpreting large-scale language data. The conclusion is a fully functional search engine that deepens our understanding of text retrieval systems and reinforces techniques essential for advanced NLP applications.
+<br><br>
+Key accomplishments of the project include:
+<br>
+- API Integration: Fetches Shakespeare’s sonnets from the PoetryDB API and converts the data into object-oriented representations.
+- Inverted Index Construction: Builds an inverted index to map words to the sonnets they appear in, facilitating rapid and efficient query processing.
+- Text Processing & Stemming: Implements tokenization and applies Porter's stemming algorithm to normalize words, thereby improving search accuracy by treating different forms of words as equivalent.
+- Boolean Retrieval: Supports complex multi-keyword queries through boolean retrieval, allowing users to effectively search and filter relevant sonnets.
 <br><br>
 
 **Exercise 6: Tree Traversal**
