@@ -1,5 +1,5 @@
 # Programming_and_Algorithms_2024W
-This repository contains code that is part of programming assignments in Programming and Algorithms for Language Technologies in 2024W.
+This repository contains code that is part of programming assignments in **Programming and Algorithms for Language Technologies in 2024W** (FH Campus Wien).
 
 ***ASSIGNMENTS OVERVIEW:***
 <br><br>
